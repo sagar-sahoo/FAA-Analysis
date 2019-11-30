@@ -1,4 +1,4 @@
-# FAA-Analysis-SAS
+# FAA Analysis - SAS
 FEDERAL ADMINISTRATION AVIATION (FAA) Data Analysis using SAS
 
 
